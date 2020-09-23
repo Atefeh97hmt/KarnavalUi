@@ -211,16 +211,16 @@ nav {
     }
 }
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:450px) {
     .form-control {
-        width: 250px!important;
+        width: 213px!important;
     }
 }
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:450px) {
     .green-search {
         position: absolute;
-        right: 200px;
+        right: 162px;
         background-color: rgb(64, 185, 148);
         border-radius: 50%;
         font-size: 20px;
